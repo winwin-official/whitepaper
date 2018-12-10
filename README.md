@@ -16,8 +16,7 @@ ROADMAP
 Stage 1: TWINS cryptocurrency launch on Jan 1st 2019
 
 Seed nodes hosted by win.win foundation team, wallet apps and public masternode setup guide.
-100% of pre-minded TWINS are distributed as community bounties for design, language translations, community management.
-100% of TWINS mined from the seed nodes are used as a liquidity pool, market making and for funding listings on crypto exchanges and websites such as MNO (masternodes.online)
+100% of pre-minded TWINS are used for the seed node colateral. 100% of TWINS mined from the seed nodes are distributed as community incentivisation bounties and used as a liquidity pool, market making and for funding listings on crypto exchanges and websites such as MNO (masternodes.online)
 
 Stage 2: Network growth 
 
@@ -26,30 +25,32 @@ Community participation is the critical requirement of the network growth in ter
 
 Stage 3: Network maturity 
 
-A critical mass of 4000 decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions.
-100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
+A critical mass of 4000 decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions. The underlying blockchain technology will be upgraded with the atomic-swap compatable TWINS network elements. 100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
 
 
-TWINS Coin details:
+TWINS Coin Specifications:
 
-PIVx Fork (Proof of Stake)
+Stages 1-2: PIVX Fork (Proof of Stake)
+
+Stage 3: NEM Catapult Fork (Proof of Stake)
 
 MAX Supply: 100B Twins
 
 Collateral: 1M Twins
 
-Premine: 4M Twins (colateral needed for 4 seed nodes only)
+Premine: 6M Twins (colateral needed for 6 seed nodes)
 
 Blocktime: 120 Sec
 
+Maturity: 60 Blocks
+
+Staking Age: 12 Hours
+
 Block Reward: 15220.70 TWINS
 
+Masternodes: 12176.56 TWINS (80%)
 
-Reward Ratio: 
+Stakers: 1522.07 TWINS (10%)
 
-80% Masternodes
-
-10% Stakers
-
-10% Development Foundation
+Development Foundation: 1522.07 TWINS (10%)
 
