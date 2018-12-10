@@ -27,7 +27,7 @@ Community participation is the critical requirement of the network growth in ter
 
 Stage 3: Network maturity 
 
-A critical mass of 4000 decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions. The underlying blockchain technology will be upgraded with the atomic-swap compatable TWINS network elements. 100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
+A critical mass of decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions. The underlying blockchain technology will be upgraded with the atomic-swap compatable TWINS network elements. 100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
 
 
 ## TWINS Coin Specifications:
