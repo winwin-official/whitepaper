@@ -37,11 +37,11 @@ Stages 1-2: PIVX Fork (Proof of Stake)
 
 Stage 3: NEM Catapult Fork (Proof of Stake)
 
-MAX Supply: 100B Twins
+MAX Supply: 100B TWINS
 
-Collateral: 1M Twins
+Collateral: 1M TWINS
 
-Premine: 6M Twins (colateral needed for the 6 seed nodes)
+Premine: 6M TWINS (colateral needed for the 6 seed nodes)
 
 Blocktime: 120 Sec
 
