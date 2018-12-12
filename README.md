@@ -41,7 +41,7 @@ MAX Supply: 100B TWINS
 
 Collateral: 1M TWINS
 
-Premine: 6M TWINS (colateral needed for the 6 seed nodes)
+No-Premine: only the colateral needed for the 6 seed nodes
 
 Blocktime: 120 Sec
 
