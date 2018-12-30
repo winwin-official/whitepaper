@@ -41,8 +41,6 @@ MAX Supply: 100B TWINS
 
 Collateral: 1M TWINS
 
-No-Premine: only the colateral needed for the 6 seed nodes
-
 Blocktime: 120 Sec
 
 Maturity: 60 Blocks
