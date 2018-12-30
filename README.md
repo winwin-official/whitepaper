@@ -6,7 +6,7 @@ In a new paradigm of crypto economics, the most important and critical function 
 
 ## HOW
 
-We will introduce a truly decentralized exchange platform and proof-of- stake blockchain network with cross-chain atomic-swap capabilities to facilitate the direct transacting of value between network users. There will be no fees for the direct peer-to-peer exchanges, as these transactions are performed directly between user wallets. The TWINS cryptocurrency will be used to power the exchange platform for buy and sell order listings and to reward the community-supported and decentralized hosting of network nodes.
+We will introduce a truly decentralized exchange platform and proof-of-stake blockchain network with cross-chain atomic-swap capabilities to facilitate the direct transacting of value between network users. There will be no fees for the direct peer-to-peer exchanges, as these transactions are performed directly between user wallets. The TWINS cryptocurrency will be used to power the exchange platform for buy and sell order listings and to reward the community-supported and decentralized hosting of network nodes.
 
 ## ABOUT US
 
@@ -17,17 +17,27 @@ We are experienced leaders in the fields of telecommunications, cyber security, 
 
 Stage 1: TWINS cryptocurrency launch on Jan 1st 2019
 
-Seed nodes hosted by win.win foundation team, wallet apps and public masternode setup guide.
-100% of pre-minded TWINS are used for the seed node colateral. 100% of TWINS mined from the seed nodes are distributed as community incentivisation bounties and used as a liquidity pool, market making and for funding listings on crypto exchanges and websites such as MNO (masternodes.online)
+Seed nodes hosted and controlled by win.win foundation team, wallet apps and public master node setup guides are published during the weeks of the TWINS mainnet soft-launch period.
+
+
+90% of the block rewards are distributed to TWINS Masternodes, 10% of the block rewards are distributed to TWINS Stakers, no block rewards are distributed to TWINS Developer Fund in the first 3 months.
+
+
+100% of TWINS mined from the seed nodes are distributed as community bounties and used as liquidity pool.
 
 Stage 2: Network growth 
 
 Community participation is the critical requirement of the network growth in terms of the number of active masternodes and the accelerating transaction activity of TWINS coin on the network and crypto-exchanges.
-100% of foundation reward TWINS are distributed as community bounties for network growth incentivisation, community  management, business development and PR.
+
+
+100% of foundation reward TWINS are distributed as community bounties for network growth incentivisation, community invites and management, business development and marketing and PR.
 
 Stage 3: Network maturity 
 
-A critical mass of decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions. The underlying blockchain technology will be upgraded with the atomic-swap compatable TWINS network elements. 100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
+A critical mass of decentralized masternodes and the acceptance of the TWINS cryptocurrency gives rise to the development and deployment of the win.win decentralized exchange platform and updated wallet apps to support direct peer-to-peer cross-chain transactions.
+
+
+100% of foundation reward TWINS are used as community bounties for decentralized exchange platform development and network sustainability, community management, business development, marketing, on-boarding incentivisation and project advancements.
 
 
 ## TWINS Coin Specifications:
